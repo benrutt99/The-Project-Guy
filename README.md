@@ -1,3 +1,8 @@
+# Website I build for my business The Project Guy
+
+As the founder of The Project Guy, I developed a website to showcase my business's services, pricing, and contact information for prospective clients. I leveraged the power of Next.js framework with React to create a seamless and responsive user experience. For the design, I incorporated custom variables with CSS and utilized the Styled Components library to create a polished and professional look. The website effectively communicated my business's offerings while emphasizing my commitment to customer satisfaction.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
